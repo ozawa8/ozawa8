@@ -22,7 +22,7 @@
 
 
 
-- 💻 &nbsp; 计算机科学相关：网络安全 | SRC应急响应中心 | CTF攻防 | ANN人工智能神经网络 | PHP | MySQL | CSS | JavaScript 
+- 💻 &nbsp; 计算机科学相关：网络安全 | ANN人工智能神经网络 | SRC应急响应中心 | CTF攻防 | PHP | MySQL | CSS | JavaScript 
 
 - 🌐 &nbsp; 艺术设计相关：摄影 | 摄像 | PR、fcpx剪辑 | AE特效 | 3D视觉 | PS AI平面设计 | DaVinci Resolve
 
