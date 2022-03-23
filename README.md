@@ -1,6 +1,6 @@
-### Hi there 👋<h2> I'm ozawa</h2>
+### Hi there 👋<h2> I'm ozawa <img  src="https://avatars.githubusercontent.com/u/93878361?s=400&u=ae273db7e29d44c9e834a78e0e7c316c2dd1835e" width="32"></h2>
 
-<img align='right' src="https://avatars.githubusercontent.com/u/93878361?s=400&u=ae273db7e29d44c9e834a78e0e7c316c2dd1835e" width="230">
+
 
 <h3> 👨🏻•💻 关于我 About Me </h3>
 
