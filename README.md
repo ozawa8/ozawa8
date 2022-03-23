@@ -37,8 +37,13 @@
 - 🔧 &nbsp; DaVinci Resolve、Apple Final Cut Pro X、Vray、3D Max
 - 🔧 &nbsp; Python、C、C++、MySQL
 
-<hr>
 
+
+<h3>🛠 About 等江来 </h3>
+
+由Github Pages托管的小泽个人生活类博客：https://www.ozawa8.ml/
+
+<hr>
 # About My Github
 
 
