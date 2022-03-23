@@ -1,4 +1,5 @@
-### Hi there 👋<h2> I'm ozawa <img  src="https://avatars.githubusercontent.com/u/93878361?s=400&u=ae273db7e29d44c9e834a78e0e7c316c2dd1835e" width="32"></h2>
+### Hi there 👋<img  src="https://avatars.githubusercontent.com/u/93878361?s=400&u=ae273db7e29d44c9e834a78e0e7c316c2dd1835e" width="230">
+<h2> I'm ozawa </h2>
 
 
 
